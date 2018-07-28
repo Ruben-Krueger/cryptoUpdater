@@ -1,8 +1,5 @@
 # crypto_updater
 
-A new Flutter application.
+A Flutter application to view cryptocurrency prices and news.
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
